@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-mvc-webflux-examples.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-mvc-webflux-examples.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-webservices-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-webservices-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-webservices-mvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-webservices-mvc.main.iml" />
+    </modules>
+  </component>
+</project>
